@@ -1,2 +1,0 @@
-# sixtall
-Sixtall local guides
