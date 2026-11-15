@@ -28,6 +28,9 @@
 - [Cannabis Delivery Canada: What to Check Before Ordering](https://local-business-guides.github.io/sixtall/cannabis-delivery-canada/): Cannabis delivery Canada with per-gram pricing and simple reorders. Review Sixtall's product options, confirm delivery details, and call before ordering.
 - [Same-Night Cannabis Delivery: Plan Your Order](https://local-business-guides.github.io/sixtall/same-night-cannabis-delivery/): Same-night cannabis delivery with a clear 9pm order cutoff and 10pm arrival window. Check Sixtall's ordering details and call before placing an order.
 
+## Newsroom
+- [Sixtall Publishes Guide to Toronto Cannabis Delivery](https://local-business-guides.github.io/sixtall/news/2026-11-15-sixtall-publishes-guide-to-toronto-cannabis/): Sixtall published a Toronto cannabis delivery guide, a podcast episode and a SoundCloud audio version this week. (2026-11-15)
+
 ## Pages
 - [Toronto Cannabis Delivery](https://local-business-guides.github.io/sixtall/): Choose from flower, pre-rolls, edibles, concentrates, and vape pens, with ordering details available online. Call +12266408265.
 - [About Sixtall | Contact](https://local-business-guides.github.io/sixtall/about/): About Sixtall.
@@ -35,3 +38,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/sixtall/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/sixtall/news/rss.xml)

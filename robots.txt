@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/sixtall/sitemap.xml
+Sitemap: https://local-business-guides.github.io/sixtall/news-sitemap.xml
