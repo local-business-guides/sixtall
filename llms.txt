@@ -17,8 +17,8 @@
 - vape pens
 
 ## Guides
-- [Toronto Cannabis Delivery, Before You Place an Order](https://local-business-guides.github.io/sixtall/toronto-cannabis-delivery/): Toronto cannabis delivery from Sixtall offers same-night ordering and per-gram pricing. Review your checklist, then call to discuss an order today.
 - [Cannabis Delivery, A Customer’s Ordering Checklist](https://local-business-guides.github.io/sixtall/cannabis-delivery/): Cannabis Delivery from Sixtall offers straightforward ordering, per-gram pricing and flexible payment options. Check your choices, then call to place an order
+- [Toronto Cannabis Delivery, Before You Place an Order](https://local-business-guides.github.io/sixtall/toronto-cannabis-delivery/): Toronto cannabis delivery from Sixtall offers same-night ordering and per-gram pricing. Review your checklist, then call to discuss an order today.
 - [Weed Delivery: What to Check Before You Order](https://local-business-guides.github.io/sixtall/weed-delivery/): Weed Delivery with clear product choices, per-gram pricing and simple reordering. Check whether Sixtall can serve your address, then call to confirm.
 - [Cannabis Mail Order: Questions to Ask First](https://local-business-guides.github.io/sixtall/cannabis-mail-order/): Cannabis Mail Order with product options and clear questions to ask before buying. Confirm shipping details with Sixtall, then call before you order.
 - [Top Toronto Cannabis Delivery for a Home Order](https://local-business-guides.github.io/sixtall/top-toronto-cannabis-delivery/): Top Toronto Cannabis Delivery with clear per-gram pricing and a simple reorder option. Review Sixtall’s selection, then call to ask about ordering.
@@ -29,6 +29,7 @@
 - [Same-Night Cannabis Delivery: Plan Your Order](https://local-business-guides.github.io/sixtall/same-night-cannabis-delivery/): Same-night cannabis delivery with a clear 9pm order cutoff and 10pm arrival window. Check Sixtall's ordering details and call before placing an order.
 
 ## Newsroom
+- [Sixtall Publishes Guide, Podcast and Audio Version on Cannabis Delivery](https://local-business-guides.github.io/sixtall/news/2026-11-16-sixtall-publishes-guide-podcast-and-audio-version/): Sixtall published a Cannabis Delivery guide and podcast episode this week, with an audio version available on SoundCloud. (2026-11-16)
 - [Sixtall Publishes Guide to Toronto Cannabis Delivery](https://local-business-guides.github.io/sixtall/news/2026-11-15-sixtall-publishes-guide-to-toronto-cannabis/): Sixtall published a Toronto cannabis delivery guide, a podcast episode and a SoundCloud audio version this week. (2026-11-15)
 
 ## Pages
